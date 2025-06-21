@@ -6,7 +6,8 @@ export default function App() {
   return (
     <>
       <div className="App">
-        <h1>This is my Div</h1>
+        <h1>Trying CodingSandbox</h1>
+        <p>an online code editor</p>
       </div>
       ;
     </>
